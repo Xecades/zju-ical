@@ -1,0 +1,71 @@
+{
+  "lastUpdated": 20240822,
+  "tweaks": [
+    {
+      "TweakType": 2,
+      "Description": "[中秋节] 放假调休，课程对调",
+      "From": 20240916,
+      "To": 20240914
+    },
+    {
+      "TweakType": 2,
+      "Description": "[中秋节] 放假调休，课程对调",
+      "From": 20240917,
+      "To": 20240921
+    },
+    {
+      "TweakType": 2,
+      "Description": "[国庆节] 放假调休，课程对调",
+      "From": 20241004,
+      "To": 20240929
+    },
+    {
+      "TweakType": 2,
+      "Description": "[国庆节] 放假调休，课程对调",
+      "From": 20241007,
+      "To": 20241012
+    },
+    {
+      "TweakType": 2,
+      "Description": "[校运会] 放假调休，课程对调",
+      "From": 20241018,
+      "To": 20241026
+    },
+    {
+      "TweakType": 0,
+      "Description": "[元旦] 放假，调休另行安排",
+      "From": 20250101,
+      "To": 20250101
+    },
+    {
+      "TweakType": 0,
+      "Description": "[国庆] 放假",
+      "From": 20241001,
+      "To": 20241003
+    }
+  ],
+  "termConfigs": [
+    {
+      "Year": "2024-2025",
+      "Term": 0,
+      "Begin": 20240909,
+      "End": 20241103,
+      "FirstWeekNo": 1
+    },
+    {
+      "Year": "2024-2025",
+      "Term": 1,
+      "Begin": 20241104,
+      "End": 20241231,
+      "FirstWeekNo": 1
+    }
+  ],
+  "classTerms": [
+    "2024-2025:0",
+    "2024-2025:1"
+  ],
+  "examTerms": [
+    "2024-2025:0"
+  ]
+}
+
